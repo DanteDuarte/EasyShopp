@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyShopping</string>
+    <string name="title_destacados">Destacados</string>
+    <string name="title_preferencias">Preferencias</string>
+    <string name="title_notificaciones">Notificaciones</string>
+    <string name="title_help">Ayuda</string>
+</resources>

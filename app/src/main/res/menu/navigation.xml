@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_featured_products"
+        android:icon="@drawable/ic_local_offer_black_24dp"
+        android:title="@string/title_destacados" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_check_box_black_24dp"
+        android:title="@string/title_preferencias" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notificaciones" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/title_help"/>
+
+
+</menu>
