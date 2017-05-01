@@ -4,4 +4,5 @@
     <string name="title_preferencias">Preferencias</string>
     <string name="title_notificaciones">Notificaciones</string>
     <string name="title_help">Ayuda</string>
+    <string name="search_product">Buscar producto</string>
 </resources>
